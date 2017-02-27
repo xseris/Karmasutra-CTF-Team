@@ -1,4 +1,4 @@
-# Encoding Apprentice
+# Shifty Ciphers
 
 Points : 50
 

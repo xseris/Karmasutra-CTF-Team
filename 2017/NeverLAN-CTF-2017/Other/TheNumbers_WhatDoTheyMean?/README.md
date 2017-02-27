@@ -1,4 +1,4 @@
-# Encoding Apprentice
+# TheNumbers WhatDoTheyMean?
 
 Points : 100
 
@@ -17,4 +17,4 @@ Analysing the file we discored that it is a JPEG file:
 
 Changing the file extension reveals the flag:
 
-![flag](https://octodex.github.com/images/yaktocat.png)
+![flag](https://github.com/xseris/Karmasutra-CTF-Team/blob/master/2017/NeverLAN-CTF-2017/Other/TheNumbers_WhatDoTheyMean%3F/TheNumbers-WhatDoTheyMean.jpg)

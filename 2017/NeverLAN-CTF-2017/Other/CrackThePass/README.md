@@ -15,4 +15,4 @@ Hint 1: Password reuse is a bad idea, but some people still use their old rockyo
 ## Solution
 Just decode the SHA-1 key:
 
-![flag](https://github.com/xseris/Karmasutra-CTF-Team/blob/master/2017/NeverLAN-CTF-2017/Other/TheNumbers_WhatDoTheyMean%3F/decoded.jpg)
+![flag](https://github.com/xseris/Karmasutra-CTF-Team/blob/master/2017/NeverLAN-CTF-2017/Other/CrackThePass/decoded.jpg)
